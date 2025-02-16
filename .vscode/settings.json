@@ -1,0 +1,11 @@
+{
+    "workbench.colorCustomizations": {
+      "sideBar.background": "#4b0f24",           // Fondo de la barra lateral en guindo oscuro
+      "activityBar.background": "#3b0d1d",       // Fondo de la barra de actividad
+      "statusBar.background": "#4b0f24",         // Fondo de la barra de estado en guindo oscuro
+      "panel.background": "#5c1429",             // Fondo del panel (terminal, output, etc.)
+      "titleBar.activeBackground": "#600b20",    // Fondo del título de la ventana activa
+      "titleBar.inactiveBackground": "#4b0f24"   // Fondo del título de la ventana inactiva
+    }
+  }
+  
