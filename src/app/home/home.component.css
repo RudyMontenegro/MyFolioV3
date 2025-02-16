@@ -1,0 +1,6 @@
+.row-local{
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%; /* O el ancho que prefieras */
+    margin: 0 auto; /* Centra horizontalmente la fila */
+  }
